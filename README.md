@@ -6,20 +6,20 @@
 
 ---
 
-## 📘 Overview
-This project explores whether early career workload (matches before age 22) impacts long-term durability and injury risk among elite 21st-century wingers.  
+##  Overview
+This project examines whether early career workload (defined as matches before age 22) affects long-term durability and injury risk among elite 21st-century wingers.  
 Data was **manually collected from Transfermarkt** and includes metrics such as matches, injuries, missed days, and positions.  
 The visuals illustrate key trends in player health and workload balance.
 
 ---
 
 ## 📊 Visuals
-- 🟦 **Match Distribution:** Before vs After age 22  
-- 🟪 **Injury Growth:** Injury increase with age  
-- ⚫ **Workload vs Durability:** Matches vs missed days (RW/LW comparison)  
-- 🔥 **Correlation Matrix:** Relationship between workload and injuries  
-- ⭐ **Best of the Best:** Messi vs Ronaldo radar comparison  
-- 🧠 **Lamine Yamal Projection:** Predicting future durability  
+- **Match Distribution:** Before vs After age 22  
+- **Injury Growth:** Injury increase with age  
+- **Workload vs Durability:** Matches vs missed days (RW/LW comparison)  
+- **Correlation Matrix:** Relationship between workload and injuries  
+- **Best of the Best:** Messi vs Ronaldo radar comparison  
+- **Lamine Yamal Projection:** Predicting future durability  
 
 ---
 
